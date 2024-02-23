@@ -17,6 +17,4 @@ The process of transforming text into a numerical feature is called text vectori
 # Machine learning algorithms
 To evaluate the performance of CountVectorizer and TF-IDF features, we applied various machine learning classifiers such as XGBoost, logistic regression, K-Nearest neighbour, MultinomialNB & decision tree to train our proposed model. The main intention of comparing various classifiers is to choose the best classifier suitable for our feature set. To implement various machine learning classifiers, Scikit-learn package is used and Python is used for feature extraction.
 # The Accuracy of the used models are as follows:
-Naive Bayes : 96.0%
-"" XG Boost: 97.0%
-Random Forest: 96.0%
+Naive Bayes : 96.0%                      XG Boost: 97.0%                     Random Forest: 96.0%
